@@ -10,6 +10,9 @@ SampleScene is just to launch a Server or Client (no host here)
 
 InteractionScene is where the test began
 
+Key V is for launching server.
+Key B is for launching client.
+
 # Configuration :
 
 Middle-level PC : Windows 10, gtx1070, 8gb Ram, SSD, intel I5 4 core -8 threads
